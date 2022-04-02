@@ -1,5 +1,5 @@
 ## Simple Server 
-Creating a server with NodeJs and ExpressJs Rendered on the frontend using express handlebars.  
+Creating a server with NodeJs and ExpressJs. Rendered on the frontend using express handlebars.  
 ## install dependencies
 ``` npm init ```
 ``` npm i express ```
